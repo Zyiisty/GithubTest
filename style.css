@@ -1,6 +1,11 @@
 h1{
-    color: purple;
+    border: 2.5px solid gray;
+    border-radius: 15px;
+    color:white;
+}
+h1:hover{
+    color: cyan;
 }
 body{
-    background-color: gold;
+    background-color: black;
 }
